@@ -2,7 +2,11 @@
 
 跨 AI 个人知识档案，用于帮助不同 AI 助手快速了解背景、工作经历、业务方向、目标与沟通偏好。
 
+## 新 AI 快速读取
+首次使用请先打开 **[START_HERE.md](START_HERE.md)**，其中包含读取顺序和通用启动语。
+
 ## 文件导航
+- [START_HERE.md](START_HERE.md)：新 AI 首次读取入口与通用启动说明
 - [PROFILE.md](PROFILE.md)：基本资料与个人背景
 - [PROFESSIONAL.md](PROFESSIONAL.md)：职业经历与专业能力
 - [BUSINESS.md](BUSINESS.md)：公司及业务规划
