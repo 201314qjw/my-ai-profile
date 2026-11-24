@@ -9,9 +9,10 @@
 - [PROJECTS.md](PROJECTS.md)：项目清单
 - [PREFERENCES.md](PREFERENCES.md)：沟通与协作偏好
 - [GOALS.md](GOALS.md)：阶段性与长期目标
+- [NETWORK.md](NETWORK.md)：合作关系与人脉背景
 - [AI_INSTRUCTIONS.md](AI_INSTRUCTIONS.md)：AI 读取和维护规则
 - [CHANGELOG.md](CHANGELOG.md)：更新记录
 
-本仓库为公开仓库。以用户明确提供的信息为准；未确认内容标记为待确认；未经第三方确认，不公开其私人信息或主观评价。
+本仓库为公开仓库。档案内容以用户明确提供的信息为准；涉及他人的内容会区分已确认事实与用户个人判断，并避免记录不必要的敏感隐私。
 
 最后更新：2026-11-25
