@@ -6,11 +6,12 @@
 3. PROFILE.md
 4. PROFESSIONAL.md
 5. BUSINESS.md
-6. GOALS.md
-7. NETWORK.md
-8. PREFERENCES.md
-9. PROJECTS.md
-10. CHANGELOG.md
+6. BUSINESS_STATUS.md
+7. GOALS.md
+8. NETWORK.md
+9. PREFERENCES.md
+10. PROJECTS.md
+11. CHANGELOG.md
 
 ## 档案地址
 https://github.com/201314qjw/my-ai-profile
