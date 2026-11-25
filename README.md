@@ -10,6 +10,7 @@
 - [PROFILE.md](PROFILE.md)：基本资料与个人背景
 - [PROFESSIONAL.md](PROFESSIONAL.md)：职业经历与专业能力
 - [BUSINESS.md](BUSINESS.md)：公司及业务规划
+- [BUSINESS_STATUS.md](BUSINESS_STATUS.md)：阔界当前经营现状、设备资产、收益结算、客户、资金、团队及经营分析
 - [PROJECTS.md](PROJECTS.md)：项目清单
 - [PREFERENCES.md](PREFERENCES.md)：沟通与协作偏好
 - [GOALS.md](GOALS.md)：阶段性与长期目标
